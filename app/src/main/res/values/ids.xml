@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id">textView</item>
+    <item name="loginMenu" type="id">loginMenu</item>
+    <item name="drawerLayout" type="id">drawerLayout</item>
+    <item name="registerMenu" type="id">registerMenu</item>
+    <item name="listDrawerId" type="id">listDrawerId</item>
+    <item name="textView2" type="id">textView2</item>
+
+    <item name="toolbar" type="id">toolbar</item>
+    <item name="btn_login" type="id">btn_login</item>
+    <item name="btn_register" type="id">btn_register</item>
+    <item name="btn_create" type="id">btn_create</item>
+    <item name="input_password" type="id">input_password</item>
+    <item name="input_password_confirm" type="id">input_password_confirm</item>
+    <item name="input_email" type="id">input_email</item>
+    <item name="toolbar_title" type="id">toolbar_title</item>
+    <item name="list_item_text_view" type="id">list_item_text_view</item>action_bar_material
+    <item name="action_bar_material" type="id">action_bar_material</item>
+    <item name="list_item_text_view_group" type="id">list_item_text_view_group</item>
+    <item name="listView_group" type="id">listView_group</item>
+    <item name="imageView_group" type="id">imageView_group</item>
+    <item name="remove_from_group_button" type="id">remove_from_group_button</item>
+    <item name="start_excursion_button" type="id">start_excursion_button</item>
+    <item name="rangebar" type="id">rangebar</item>
+    <item name="settings_layout_linear" type="id">settings_layout_linear</item>
+    <item name="numberPicker1" type="id">numberPicker1</item>
+    <item name="min_distance" type="id">min_distance</item>
+    <item name="max_distance" type="id">max_distance</item>
+    <item name="current_distance" type="id">current_distance</item>
+    <item name="button_change_distance" type="id">button_change_distance</item>
+    <item name="hours_to_event" type="id">hours_to_event</item>
+    <item name="minutes_to_event" type="id">minutes_to_event</item>
+    <item name="event_message" type="id">event_message</item>
+    <item name="button_create_event" type="id">button_create_event</item>
+    <item name="map_toolbar" type="id">map_toolbar</item>
+    <item name="find_me_button" type="id">find_me_button</item>
+    <item name="find_path_button" type="id">find_path_button</item>
+    <item name="shut_down_image" type="id">shut_down_image</item>
+    <item name="person_icon_home" type="id">person_icon_home</item>
+
+
+</resources>

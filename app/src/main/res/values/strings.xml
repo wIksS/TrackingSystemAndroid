@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrackingSystemAndroid</string>
+
+
+    <!-- Strings related to login -->
+    <string name="title_activity_main">Tracking system</string>
+    <string name="title_activity_maps">Map</string>
+    <item name="location_service" type="id">location_service</item>
+    <string name="title_activity_event_map">Map</string>
+
+</resources>
